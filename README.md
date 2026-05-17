@@ -33,7 +33,7 @@
     "Full Stack Web Development",
     "Industrial Automation (DCS/PLC)"
   ],
-  "languages_spoken": ["Python", "R", "SQL", "JavaScript"],
+  "languages": ["Python", "R", "SQL", "JavaScript"],
   "currently_building": "ML-powered data dashboards",
   "fun_fact": "I automate everything — including my morning report 📊",
   "available_for": "Collaborations, Internships & Freelance"
@@ -60,7 +60,7 @@
 ![Coding Since](https://img.shields.io/badge/📊_FOCUS-Data_Science_%26_ML-7C3AED?style=for-the-badge)
 ![Full Stack](https://img.shields.io/badge/💻_ALSO-Full_Stack_Dev-6D28D9?style=for-the-badge)
 ![Open Source](https://img.shields.io/badge/🤝_OPEN-To_Collaborate-4C1D95?style=for-the-badge)
-![Coffee](https://img.shields.io/badge/☕_RUNS_ON-MONSTER_%26_Data-8B5CF6?style=for-the-badge)
+![Coffee](https://img.shields.io/badge/🧃_RUNS_ON-MONSTER_%26_Data-8B5CF6?style=for-the-badge)
 
 </div>
 
