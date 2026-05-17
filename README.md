@@ -272,7 +272,7 @@ timeline
 [![GitHub](https://img.shields.io/badge/⭐_GITHUB-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ishika-pathak2317)
 
 <br/>
-<img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake animation"/>
+<img src="https://raw.githubusercontent.com/ishika-pathak2317/ishika-pathak2317/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake animation"/>
 
 <br/>
 
