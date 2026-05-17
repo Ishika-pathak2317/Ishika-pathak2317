@@ -15,15 +15,17 @@
 
 ---
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="Coding GIF"/>
-
 ## `$ cat about_me.json`
+
+<table>
+<tr>
+<td valign="top" width="60%">
 
 ```json
 {
   "name": "Ishika Pathak",
   "title": "Data Scientist & Full Stack Developer",
-  "location": "SIKKIM",
+  "location": "Sikkim, India 🇮🇳",
   "education": "B.Tech AI & ML",
   "focus": [
     "Machine Learning & AI",
@@ -31,12 +33,21 @@
     "Full Stack Web Development",
     "Industrial Automation (DCS/PLC)"
   ],
-  "languages": ["Python", "R", "SQL", "JavaScript"],
+  "languages_spoken": ["Python", "R", "SQL", "JavaScript"],
   "currently_building": "ML-powered data dashboards",
   "fun_fact": "I automate everything — including my morning report 📊",
   "available_for": "Collaborations, Internships & Freelance"
 }
 ```
+
+</td>
+<td valign="top" width="40%" align="center">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260" alt="Coding GIF"/>
+
+</td>
+</tr>
+</table>
 
 <br clear="right"/>
 
