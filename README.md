@@ -9,7 +9,7 @@
 <!-- Badges -->
 [![Profile Views](https://komarev.com/ghpvc/?username=ishika-pathak2317&label=PROFILE+VIEWS&color=7c3aed&style=for-the-badge&logo=github)](https://github.com/ishika-pathak2317)
 [![GitHub Followers](https://img.shields.io/github/followers/ishika-pathak2317?label=FOLLOWERS&style=for-the-badge&color=6d28d9&logo=github)](https://github.com/ishika-pathak2317)
-![Coding Since](https://img.shields.io/badge/🧠_CODING_SINCE-2022-blueviolet?style=for-the-badge)
+![Coding Since](https://img.shields.io/badge/🧠_CODING_SINCE-2021-blueviolet?style=for-the-badge)
 
 </div>
 
@@ -23,15 +23,15 @@
 {
   "name": "Ishika Pathak",
   "title": "Data Scientist & Full Stack Developer",
-  "location": "India 🇮🇳",
-  "education": "B.Tech Computer Science",
+  "location": "SIKKIM",
+  "education": "B.Tech AI & ML",
   "focus": [
     "Machine Learning & AI",
     "Data Analysis & Visualization",
     "Full Stack Web Development",
     "Industrial Automation (DCS/PLC)"
   ],
-  "languages_spoken": ["Python", "R", "SQL", "JavaScript"],
+  "languages": ["Python", "R", "SQL", "JavaScript"],
   "currently_building": "ML-powered data dashboards",
   "fun_fact": "I automate everything — including my morning report 📊",
   "available_for": "Collaborations, Internships & Freelance"
@@ -49,7 +49,7 @@
 ![Coding Since](https://img.shields.io/badge/📊_FOCUS-Data_Science_%26_ML-7C3AED?style=for-the-badge)
 ![Full Stack](https://img.shields.io/badge/💻_ALSO-Full_Stack_Dev-6D28D9?style=for-the-badge)
 ![Open Source](https://img.shields.io/badge/🤝_OPEN-To_Collaborate-4C1D95?style=for-the-badge)
-![Coffee](https://img.shields.io/badge/☕_RUNS_ON-Coffee_%26_Data-8B5CF6?style=for-the-badge)
+![Coffee](https://img.shields.io/badge/☕_RUNS_ON-MONSTER_%26_Data-8B5CF6?style=for-the-badge)
 
 </div>
 
@@ -193,7 +193,7 @@ Business intelligence report with DAX measures, dynamic visuals, and executive s
 ![Open Source](https://img.shields.io/badge/🏅_OPEN_SOURCE-Contributor-success?style=for-the-badge)
 ![Data Science](https://img.shields.io/badge/📊_DATA-Analyst_%26_Scientist-blue?style=for-the-badge)
 ![Full Stack](https://img.shields.io/badge/💻_FULL_STACK-Developer-purple?style=for-the-badge)
-![Industrial](https://img.shields.io/badge/🏭_INDUSTRIAL-DCS_%85_PLC_Certified-orange?style=for-the-badge)
+![Industrial](https://img.shields.io/badge/🏭_INDUSTRIAL-DCS_%26_PLC_Certified-orange?style=for-the-badge)
 
 </div>
 
