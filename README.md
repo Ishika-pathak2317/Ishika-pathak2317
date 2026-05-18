@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2500&pause=600&color=C084FC&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=90&lines=⚡+Data+Scientist+%7C+ML+Engineer+%7C+Full+Stack+Dev;🧠+2nd+Year+AI+%26+ML+Student+%7C+Sikkim%2C+India;📊+Turning+raw+data+into+real+decisions" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2500&pause=600&color=C084FC&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=90&lines=Data+Scientist+%7C+ML+Engineer+%7C+Full+Stack+Dev;2nd+Year+AI+%26+ML+Student+%7C+Sikkim%2C+India;Turning+raw+data+into+real+decisions" alt="Typing SVG"/>
 
 <br/>
 
@@ -173,9 +173,9 @@ me.say_hi()
 
 ---
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122049-276bc7a5-c760-4849-805a-995d8fa6b4d0.png" width="32"/> &nbsp; Featured Projects
+## <img src="https://user-images.githubusercontent.com/74038190/216122049-276bc7a5-c760-4849-805a-995d8fa6b4d0.png" width="32"/>   Featured Projects
 
-> 🔧 Actively pushing projects from **May 2025** — repos coming very soon!
+> 🔧 Actively pushing projects from **May 2026** — repos coming very soon!
 
 <table>
 <tr>
@@ -232,7 +232,7 @@ Executive-level BI report with DAX measures, slicers, drill-through pages and au
 
 ---
 
-## <img src="https://user-images.githubusercontent.com/74038190/216121964-513bdf95-3c8c-429a-82bc-7c770caca8fc.png" width="32"/> &nbsp; Achievements
+## <img src="https://user-images.githubusercontent.com/74038190/216121964-513bdf95-3c8c-429a-82bc-7c770caca8fc.png" width="32"/>   Achievements
 
 <div align="center">
 
@@ -249,7 +249,7 @@ Executive-level BI report with DAX measures, slicers, drill-through pages and au
 
 ---
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122000-6b7ced2d-8da4-40e7-b5f1-6197b5a75bbd.png" width="32"/> &nbsp; My Journey
+## <img src="https://user-images.githubusercontent.com/74038190/216122000-6b7ced2d-8da4-40e7-b5f1-6197b5a75bbd.png" width="32"/>   My Journey
 
 <div align="center">
 
