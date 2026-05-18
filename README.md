@@ -161,19 +161,19 @@ me.say_hi()
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ishika-pathak2317&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=c084fc&icon_color=0FBE3E&text_color=e2e8f0&ring_color=9333ea&include_all_commits=true&count_private=true" height="175"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Ishika-pathak2317&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=0fbe3e&icon_color=c084fc&text_color=e2e8f0&ring_color=9333ea&include_all_commits=true&count_private=true&cache_seconds=1800" height="175"/>
 &nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Ishika-pathak2317&theme=midnight-purple&hide_border=true&background=0d1117&stroke=9333ea&ring=0FBE3E&fire=f97316&currStreakNum=ffffff&sideNums=c084fc&currStreakLabel=c084fc&sideLabels=e2e8f0&dates=94a3b8" height="175"/>
+<img src="https://streak-stats.demolab.com?user=Ishika-pathak2317&theme=midnight-purple&hide_border=true&background=0D1117&stroke=0fbe3e&ring=0fbe3e&fire=f97316&currStreakNum=0fbe3e&sideNums=0fbe3e&currStreakLabel=0fbe3e&sideLabels=e2e8f0&dates=94a3b8" height="175"/>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ishika-pathak2317&layout=donut&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=FFFF00&text_color=e2e8f0&langs_count=8" height="220"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ishika-pathak2317&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=c084fc&text_color=e2e8f0&langs_count=8&cache_seconds=1800" height="200"/>
 
 </div>
 
 ---
 
-## <img src="https://github.com/ishika-pathak2317/cohort-2/2.gif?raw=true" width="32"/>   Featured Projects
+## <img src="https://github.com/ishika-pathak2317/cohort-2/blob/main/2.gif?raw=true" width="32"/>   Featured Projects
 
 > 🔧 Actively pushing projects from **May 2026** — repos coming very soon!
 
@@ -232,7 +232,7 @@ Executive-level BI report with DAX measures, slicers, drill-through pages and au
 
 ---
 
-## <img src="https://github.com/ishika-pathak2317/cohort-2/1.gif?raw=true" width="32"/>   Achievements
+## <img src="https://github.com/ishika-pathak2317/cohort-2/blob/main/1.gif?raw=true" width="32"/>   Achievements
 
 <div align="center">
 
@@ -249,7 +249,7 @@ Executive-level BI report with DAX measures, slicers, drill-through pages and au
 
 ---
 
-## <img src="https://github.com/ishika-pathak2317/cohort-2/4.gif?raw=true" width="32"/>   My Journey
+## <img src="https://github.com/ishika-pathak2317/cohort-2/blob/main/4.gif?raw=true" width="32"/>   My Journey
 
 <div align="center">
 
@@ -283,7 +283,7 @@ Executive-level BI report with DAX measures, slicers, drill-through pages and au
 
 ---
 
-## <img src="https://github.com/ishika-pathak2317/cohort-2/3.jfif?raw=true" width="32"/> &nbsp; Words I Live By
+## <img src="https://github.com/ishika-pathak2317/cohort-2/blob/main/3.jfif?raw=true" width="32"/> &nbsp; Words I Live By
 
 <div align="center">
 
@@ -296,7 +296,7 @@ Executive-level BI report with DAX measures, slicers, drill-through pages and au
 
 ---
 
-## <img src="https://github.com/ishika-pathak2317/cohort-2/5.gif?raw=true" width="32"/> &nbsp; Let's Connect
+## <img src="https://github.com/ishika-pathak2317/cohort-2/blob/main/5.gif?raw=true" width="32"/> &nbsp; Let's Connect
 
 <div align="center">
 
