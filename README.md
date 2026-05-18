@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2500&pause=600&color=C084FC&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=90&lines=⚡+Data+Scientist+%7C+ML+Engineer+%7C+Full+Stack+Dev;🧠+2nd+Year+AI+%26+ML+Student+%7C+Sikkim%2C+India+🇮🇳;📊+Turning+raw+data+into+real+decisions" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2500&pause=600&color=C084FC&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=90&lines=⚡+Data+Scientist+%7C+ML+Engineer+%7C+Full+Stack+Dev;🧠+2nd+Year+AI+%26+ML+Student+%7C+Sikkim%2C+India;📊+Turning+raw+data+into+real+decisions" alt="Typing SVG"/>
 
 <br/>
 
