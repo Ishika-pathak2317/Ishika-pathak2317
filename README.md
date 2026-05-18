@@ -1,85 +1,111 @@
 <div align="center">
 
-<!-- Animated header banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=12,20,24,30&text=Ishika%20Pathak&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Data%20Scientist%20%7C%20Full%20Stack%20Developer%20%7C%20ML%20Engineer&descSize=16&descAlignY=58&descColor=e0e0ff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=cylinder&height=180&color=gradient&customColorList=6,11,20&text=Ishika%20Pathak&fontSize=52&fontColor=ffffff&animation=blinking&fontAlignY=50&desc=Decoding%20the%20World%2C%20One%20Dataset%20at%20a%20Time&descSize=15&descAlignY=72&descColor=d8b4fe" width="100%"/>
 
-<!-- Typing animation -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%24+whoami+%3E+Data+Scientist+%26+ML+Engineer+%F0%9F%A7%A0;%24+cat+passion.txt+%3E+Turning+raw+data+into+real+decisions;%24+echo+%22Bridging+code%2C+data+%26+industry%22" alt="Typing SVG"/>
+<br/>
 
-<!-- Badges -->
-[![Profile Views](https://komarev.com/ghpvc/?username=ishika-pathak2317&label=PROFILE+VIEWS&color=7c3aed&style=for-the-badge&logo=github)](https://github.com/ishika-pathak2317)
-[![GitHub Followers](https://img.shields.io/github/followers/ishika-pathak2317?label=FOLLOWERS&style=for-the-badge&color=6d28d9&logo=github)](https://github.com/ishika-pathak2317)
-![Coding Since](https://img.shields.io/badge/🧠_CODING_SINCE-2021-blueviolet?style=for-the-badge)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2500&pause=600&color=C084FC&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=90&lines=⚡+Data+Scientist+%7C+ML+Engineer+%7C+Full+Stack+Dev;🧠+2nd+Year+AI+%26+ML+Student+%7C+Sikkim%2C+India+🇮🇳;📊+Turning+raw+data+into+real+decisions" alt="Typing SVG"/>
+
+<br/>
+
+[![Profile Views](https://komarev.com/ghpvc/?username=Ishika-pathak2317&label=PROFILE+VIEWS&color=9333ea&style=for-the-badge)](https://github.com/Ishika-pathak2317)
+[![GitHub followers](https://img.shields.io/github/followers/Ishika-pathak2317?label=FOLLOWERS&style=for-the-badge&color=7e22ce)](https://github.com/Ishika-pathak2317)
+[![Coding Since](https://img.shields.io/badge/🚀_CODING_SINCE-2021-blueviolet?style=for-the-badge)](#)
 
 </div>
 
 ---
 
-## `$ cat about_me.json`
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700"/>
+</div>
+
+---
+
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="32"/> &nbsp; Who Am I?
 
 <table>
 <tr>
-<td valign="top" width="60%">
+<td width="58%" valign="top">
 
-```json
-{
-  "name": "Ishika Pathak",
-  "title": "Data Scientist & Full Stack Developer",
-  "location": "Sikkim, India 🇮🇳",
-  "education": "B.Tech AI & ML",
-  "focus": [
-    "Machine Learning & AI",
-    "Data Analysis & Visualization",
-    "Full Stack Web Development",
-    "Industrial Automation (DCS/PLC)"
-  ],
-  "languages": ["Python", "R", "SQL", "JavaScript"],
-  "currently_building": "ML-powered data dashboards",
-  "fun_fact": "I automate everything — including my morning report 📊",
-  "available_for": "Collaborations, Internships & Freelance"
-}
+```python
+class IshikaPathak:
+
+    def __init__(self):
+        self.name       = "Ishika Pathak"
+        self.role       = ["Data Scientist", "ML Engineer",
+                           "Full Stack Developer"]
+        self.education  = "B.Tech — AI & ML (2nd Year)"
+        self.location   = "Sikkim, India 🇮🇳"
+        self.email      = "ishikapathak109@gmail.com"
+        self.linkedin   = "linkedin.com/in/ishika-pathak1723"
+
+    def current_focus(self):
+        return {
+            "building"  : "ML-powered analytics dashboards",
+            "learning"  : "Deep Learning & LLM fine-tuning",
+            "exploring" : "Industrial AI with DCS & PLC",
+            "fun_fact"  : "I debug data like I debug code 🔍"
+        }
+
+    def skills_summary(self):
+        return {
+            "languages" : ["Python", "R", "SQL", "JavaScript"],
+            "ml"        : ["TensorFlow","scikit-learn","Pandas"],
+            "viz"       : ["Tableau","Power BI","Excel"],
+            "web"       : ["React","Node.js","HTML","CSS"],
+            "industrial": ["DCS", "PLC"],
+            "tools"     : ["Git", "GitHub", "Linux", "Jupyter"]
+        }
+
+    def say_hi(self):
+        print("Hey! Let's build something that matters 🚀")
+
+me = IshikaPathak()
+me.say_hi()
 ```
 
 </td>
-<td valign="top" width="40%" align="center">
+<td width="42%" valign="top" align="center">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260" alt="Coding GIF"/>
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="300" alt="Data Science GIF"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/📍_Location-Sikkim,_India-9333ea?style=flat-square"/>
+<br/>
+<img src="https://img.shields.io/badge/🎓_Degree-B.Tech_AI_%26_ML_(2nd_Year)-7e22ce?style=flat-square"/>
+<br/>
+<img src="https://img.shields.io/badge/💼_Status-Open_to_Collaborate-22c55e?style=flat-square"/>
+<br/>
+<img src="https://img.shields.io/badge/🚀_Started_Coding-2021-c084fc?style=flat-square"/>
+<br/>
+<img src="https://img.shields.io/badge/🥤_Fuel-Monster_%26_Datasets-a855f7?style=flat-square"/>
 
 </td>
 </tr>
 </table>
 
-<br clear="right"/>
-
 ---
 
-## `$ systemctl status ishika`
+## <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="32"/> &nbsp; Quick Highlights
 
 <div align="center">
 
-![Coding Since](https://img.shields.io/badge/📊_FOCUS-Data_Science_%26_ML-7C3AED?style=for-the-badge)
-![Full Stack](https://img.shields.io/badge/💻_ALSO-Full_Stack_Dev-6D28D9?style=for-the-badge)
-![Open Source](https://img.shields.io/badge/🤝_OPEN-To_Collaborate-4C1D95?style=for-the-badge)
-![Coffee](https://img.shields.io/badge/🧃_RUNS_ON-MONSTER_%26_Data-8B5CF6?style=for-the-badge)
+| | | |
+|:---:|:---:|:---:|
+| 🔭 **Building** ML analytics dashboards | 🌱 **Learning** Deep Learning & LLMs | 🏭 **Unique Skill** DCS & PLC Automation |
+| 💬 **Ask me about** Python, SQL, Tableau | 📊 **Obsessed with** clean data stories | ⚡ **Fun fact** I can pivot-table AND build a REST API in the same afternoon |
 
 </div>
 
-### 🎯 Quick Facts
-
-- 🔭 Currently building **ML-powered analytics dashboards**
-- 🌱 Deepening expertise in **Deep Learning, LLMs & Cloud ML**
-- 🏭 Unique skill: **Industrial DCS & PLC automation** — rare in the data world
-- 💬 Ask me about **Python, Pandas, Tableau, SQL, or full stack dev**
-- 📊 Obsessed with turning messy datasets into clean, actionable stories
-- ⚡ Fun fact: I can make a pivot table *and* a REST API in the same afternoon
-
 ---
 
-## `$ ls -la ~/tech-stack/`
+## <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="36"/> &nbsp; Tech Universe
 
 <div align="center">
 
-### 🧠 Data Science & ML
+### 🧠 &nbsp; Data Science & Machine Learning
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
@@ -89,21 +115,21 @@
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-### 📊 Data Visualization & BI
+### 📊 &nbsp; Visualization & Business Intelligence
 
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-3B82F6?style=for-the-badge&logo=python&logoColor=white)
 ![Excel](https://img.shields.io/badge/Advanced_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)
 
-### 🗄️ Databases & Query
+### 🗄️ &nbsp; Databases
 
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### 💻 Full Stack Development
+### 💻 &nbsp; Full Stack Development
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -111,149 +137,158 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### 🏭 Industrial & DevOps
+### 🏭 &nbsp; Industrial Automation — Rare Skill
 
-![DCS](https://img.shields.io/badge/DCS-Distributed_Control_Systems-6D28D9?style=for-the-badge)
-![PLC](https://img.shields.io/badge/PLC-Programmable_Logic_Controllers-7C3AED?style=for-the-badge)
+![DCS](https://img.shields.io/badge/DCS-Distributed_Control_Systems-9333ea?style=for-the-badge)
+![PLC](https://img.shields.io/badge/PLC-Programmable_Logic_Controllers-7e22ce?style=for-the-badge)
+
+### 🛠️ &nbsp; Tools & Platforms
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
 
 ---
 
-## `$ tree ~/projects/`
+## <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="32"/> &nbsp; GitHub Stats
 
-> Will attatch the Repos soon as starting to push my developments from 17th May'26
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ishika-pathak2317&custom_title=Contribution%20Graph&bg_color=0d1117&color=c084fc&line=9333ea&point=ffffff&area_color=7e22ce&title_color=c084fc&area=true&hide_border=true&radius=12" width="100%"/>
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Ishika-pathak2317&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=c084fc&icon_color=c084fc&text_color=e2e8f0&ring_color=9333ea&include_all_commits=true&count_private=true" height="175"/>
+&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Ishika-pathak2317&theme=midnight-purple&hide_border=true&background=0d1117&stroke=9333ea&ring=c084fc&fire=f97316&currStreakNum=ffffff&sideNums=c084fc&currStreakLabel=c084fc&sideLabels=e2e8f0&dates=94a3b8" height="175"/>
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ishika-pathak2317&layout=donut&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=c084fc&text_color=e2e8f0&langs_count=8" height="220"/>
+
+</div>
+
+---
+
+## <img src="https://user-images.githubusercontent.com/74038190/216122049-276bc7a5-c760-4849-805a-995d8fa6b4d0.png" width="32"/> &nbsp; Featured Projects
+
+> 🔧 Actively pushing projects from **May 2025** — repos coming very soon!
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
 ### 📊 Data Analysis Dashboard
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ishika-pathak2317&repo=data-analysis-dashboard&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA)](https://github.com/ishika-pathak2317)
+**Stack:** Python · Pandas · Tableau · SQL
 
-**Tech:** Python · Pandas · Tableau · SQL  
-Interactive dashboard analyzing real-world datasets with filters, KPIs, and visual storytelling.
+Interactive business dashboard with real-world datasets, dynamic KPIs, filters and visual storytelling for decision-makers.
+
+[![Repo](https://img.shields.io/badge/Coming_Soon-9333ea?style=for-the-badge&logo=github&logoColor=white)](#)
 
 </td>
 <td width="50%" valign="top">
 
-### 🤖 ML Prediction Model
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ishika-pathak2317&repo=ml-prediction-model&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA)](https://github.com/ishika-pathak2317)
+### 🤖 ML Prediction Pipeline
+**Stack:** Python · scikit-learn · TensorFlow · Jupyter
 
-**Tech:** Python · scikit-learn · TensorFlow · Jupyter  
-End-to-end ML pipeline from data cleaning to model deployment.
+End-to-end machine learning pipeline — data cleaning, feature engineering, model training and evaluation.
+
+[![Repo](https://img.shields.io/badge/Coming_Soon-9333ea?style=for-the-badge&logo=github&logoColor=white)](#)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🌐 Full Stack Web App
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ishika-pathak2317&repo=fullstack-app&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA)](https://github.com/ishika-pathak2317)
+### 🌐 Full Stack Web Application
+**Stack:** React · Node.js · MySQL · Git
 
-**Tech:** React · Node.js · SQL · Git  
-Full stack application with authentication, database integration, and responsive UI.
+Full stack app with authentication, REST API, database integration and responsive UI built from scratch.
+
+[![Repo](https://img.shields.io/badge/Coming_Soon-9333ea?style=for-the-badge&logo=github&logoColor=white)](#)
 
 </td>
 <td width="50%" valign="top">
 
-### 📈 Sales & Business Intelligence Report
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ishika-pathak2317&repo=bi-report&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA)](https://github.com/ishika-pathak2317)
+### 📈 Business Intelligence Report
+**Stack:** Power BI · Advanced Excel · SQL
 
-**Tech:** Power BI · Advanced Excel · SQL  
-Business intelligence report with DAX measures, dynamic visuals, and executive summary.
+Executive-level BI report with DAX measures, slicers, drill-through pages and automated data refresh.
+
+[![Repo](https://img.shields.io/badge/Coming_Soon-9333ea?style=for-the-badge&logo=github&logoColor=white)](#)
 
 </td>
 </tr>
 </table>
 
-[![View All Repos](https://img.shields.io/badge/📂_VIEW_ALL_REPOSITORIES-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ishika-pathak2317?tab=repositories)
-
----
-
-## `$ git log --oneline --graph`
-
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ishika-pathak2317&custom_title=🔥%20Contribution%20Heatmap&bg_color=0D1117&color=A78BFA&line=7C3AED&point=FFFFFF&area_color=6D28D9&title_color=FFFFFF&area=true&hide_border=true&radius=16" width="100%"/>
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=ishika-pathak2317&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=C9D1D9&ring_color=A78BFA&include_all_commits=true&count_private=true&line_height=28" height="180"/>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=ishika-pathak2317&theme=midnight-purple&hide_border=true&background=0D1117&stroke=A78BFA&ring=A78BFA&fire=FF6B6B&currStreakNum=FFFFFF&sideNums=A78BFA&currStreakLabel=A78BFA&sideLabels=C9D1D9&dates=8B949E" height="180"/>
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishika-pathak2317&layout=donut-vertical&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&langs_count=8" height="300"/>
+[![All Repos](https://img.shields.io/badge/📂_Browse_All_Projects-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ishika-pathak2317?tab=repositories)
 
 </div>
 
 ---
 
-## `$ cat achievements.log`
+## <img src="https://user-images.githubusercontent.com/74038190/216121964-513bdf95-3c8c-429a-82bc-7c770caca8fc.png" width="32"/> &nbsp; Achievements
 
 <div align="center">
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ishika-pathak2317&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)](https://github.com/ishika-pathak2317)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=Ishika-pathak2317&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=12)](https://github.com/Ishika-pathak2317)
 
 <br/>
 
-![Open Source](https://img.shields.io/badge/🏅_OPEN_SOURCE-Contributor-success?style=for-the-badge)
-![Data Science](https://img.shields.io/badge/📊_DATA-Analyst_%26_Scientist-blue?style=for-the-badge)
-![Full Stack](https://img.shields.io/badge/💻_FULL_STACK-Developer-purple?style=for-the-badge)
-![Industrial](https://img.shields.io/badge/🏭_INDUSTRIAL-DCS_%26_PLC_Certified-orange?style=for-the-badge)
+![badge](https://img.shields.io/badge/🎓_B.Tech-AI_%26_ML-9333ea?style=for-the-badge)
+![badge](https://img.shields.io/badge/📊_BI-Tableau_%26_Power_BI-7e22ce?style=for-the-badge)
+![badge](https://img.shields.io/badge/🏭_Industrial-DCS_%26_PLC-6b21a8?style=for-the-badge)
+![badge](https://img.shields.io/badge/💻_Full_Stack-React_%26_Node-4a044e?style=for-the-badge)
 
 </div>
 
 ---
 
-## `$ history | grep journey`
-
-```
-timeline
-    title 🚀 Ishika's Journey
-
-    2021 : First line of code written
-         : Fell in love with data
-
-    2022 : Mastered HTML & CSS
-         : Built static website linked with excel
-         : Discovered the power of visualization
-
-    2023 : Mastered SQL & JS
-         : Built Dynamic websites
-         : Learned Full Stack Development
-         : Explored DCS/PLC & Industrial Automation
-         : Power BI & Tableau certified workflows
-
-    2024 : Mastered Python, R & ML
-         : Built ML based projects
-         : Understood concepts of data visualisation and processing
-
-    2025 : Building production ML pipelines
-         : Data-driven full stack applications
-         : Bridging AI with real-world industry
-         : Explored DCS/PLC & Industrial Automation
-         : Power BI & Tableau certified workflows
-```
-
----
-
-## `$ fortune | cowsay`
+## <img src="https://user-images.githubusercontent.com/74038190/216122000-6b7ced2d-8da4-40e7-b5f1-6197b5a75bbd.png" width="32"/> &nbsp; My Journey
 
 <div align="center">
 
 ```
-╔══════════════════════════════════════════════════════════════════╗
-║                                                                  ║
-║    "Without data you're just another person with an opinion."    ║
-║                                              — W. Edwards Deming ║
-║                                                                  ║
-╚══════════════════════════════════════════════════════════════════╝
+◆──────────────────────────────────────────────────────────────────◆
+│                                                                    │
+│  2021  ▸  Wrote my first line of code                             │
+│           Fell in love with HTML & CSS                            │
+│           Built a static website linked with Excel — Day 1 ⚡     │
+│                                                                    │
+│  2022  ▸  Discovered the power of data visualization              │
+│           Mastered SQL & JavaScript                               │
+│           Started building dynamic websites                       │
+│                                                                    │
+│  2023  ▸  Learned Full Stack Development (React + Node.js)        │
+│           Explored DCS & PLC Industrial Automation                │
+│           Power BI & Tableau workflows unlocked 📊                │
+│                                                                    │
+│  2024  ▸  Mastered Python, R & Machine Learning                   │
+│           Built ML-based projects end-to-end                     │
+│           Deep-dived into data processing & visualization         │
+│                                                                    │
+│  2025  ▸  Building production ML pipelines 🚀                     │
+│           Bridging AI with real-world industry                    │
+│           Open to collaborations & internships                    │
+│                                                                    │
+◆──────────────────────────────────────────────────────────────────◆
 ```
+
+</div>
+
+---
+
+## <img src="https://user-images.githubusercontent.com/74038190/216124356-f0d71f81-2ea7-4d52-8b50-21b990f49c3c.png" width="32"/> &nbsp; Words I Live By
+
+<div align="center">
+
+> *"Without data, you're just another person with an opinion."*
+> — W. Edwards Deming
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" width="100%"/>
 
@@ -261,27 +296,30 @@ timeline
 
 ---
 
-## `$ ping ishika`
+## <img src="https://user-images.githubusercontent.com/74038190/216120985-dc1b9a01-6dec-4bc6-85a0-9edd31f6ab23.png" width="32"/> &nbsp; Let's Connect
 
 <div align="center">
 
-### 🤝 Let's build something data-driven together!
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400"/>
 
-[![LinkedIn](https://img.shields.io/badge/💼_LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ishika-pathak1723)
-[![Gmail](https://img.shields.io/badge/📧_EMAIL-Say_Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ishika-pathak2317109@gmail.com)
-[![GitHub](https://img.shields.io/badge/⭐_GITHUB-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ishika-pathak2317)
+<br/><br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ishika-pathak1723)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ishikapathak109@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ishika-pathak2317)
 
 <br/>
-<img src="https://raw.githubusercontent.com/ishika-pathak2317/ishika-pathak2317/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake animation"/>
+
+<img src="https://raw.githubusercontent.com/Ishika-pathak2317/Ishika-pathak2317/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake animation"/>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=12,20,24,30&section=footer&text=Thanks%20for%20visiting!%20%F0%9F%92%9C&fontSize=20&fontColor=ffffff&animation=fadeIn&fontAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=6,11,20&section=footer&text=Thanks%20for%20stopping%20by!%20%F0%9F%92%9C&fontSize=18&fontColor=ffffff&animation=fadeIn&fontAlignY=70" width="100%"/>
 
 </div>
 
 ---
 
 <div align="center">
-  ✨ Crafted with ❤︎⁠ & ☕ by <strong>Ishika Pathak</strong> | Data Scientist · Full Stack Dev · ML Engineer
+  <sub>✨ Crafted with ❤︎ by <strong>Ishika Pathak</strong> · Data Scientist · ML Engineer · Full Stack Developer</sub>
 </div>
