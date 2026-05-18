@@ -1,16 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&height=180&color=gradient&customColorList=6,11,20&text=Ishika%20Pathak&fontSize=52&fontColor=ffffff&animation=blinking&fontAlignY=50&desc=Decoding%20the%20World%2C%20One%20Dataset%20at%20a%20Time&descSize=15&descAlignY=72&descColor=d8b4fe" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=cylinder&height=180&color=gradient&customColorList=6,11,25&text=Ishika%20Pathak&fontSize=52&fontColor=ffffff&animation=blinking&fontAlignY=50&desc=Decoding%20the%20World%2C%20One%20Dataset%20at%20a%20Time&descSize=15&descAlignY=72&descColor=d8b4fe" width="100%"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2500&pause=600&color=C084FC&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=90&lines=Data+Scientist+%7C+ML+Engineer+%7C+Full+Stack+Dev;2nd+Year+AI+%26+ML+Student+%7C+Sikkim%2C+India;Turning+raw+data+into+real+decisions" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2500&pause=600&color=FFFF00&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=90&lines=Data+Scientist+%7C+ML+Engineer+%7C+Full+Stack+Dev;2nd+Year+AI+%26+ML+Student+%7C+Sikkim%2C+India;Turning+raw+data+into+real+decisions" alt="Typing SVG"/>
 
 <br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Ishika-pathak2317&label=PROFILE+VIEWS&color=9333ea&style=for-the-badge)](https://github.com/Ishika-pathak2317)
-[![GitHub followers](https://img.shields.io/github/followers/Ishika-pathak2317?label=FOLLOWERS&style=for-the-badge&color=7e22ce)](https://github.com/Ishika-pathak2317)
-[![Coding Since](https://img.shields.io/badge/🚀_CODING_SINCE-2021-blueviolet?style=for-the-badge)](#)
+[![Profile Views](https://komarev.com/ghpvc/?username=Ishika-pathak2317&label=PROFILE+VIEWS&color=0fbe3e&style=for-the-badge)](https://github.com/Ishika-pathak2317)
+[![GitHub followers](https://img.shields.io/github/followers/Ishika-pathak2317?label=FOLLOWERS&style=for-the-badge&color=0fbe3e)](https://github.com/Ishika-pathak2317)
+[![Coding Since](https://img.shields.io/badge/🚀_CODING_SINCE-2021-0fbe3e?style=for-the-badge)](#)
 
 </div>
 
@@ -157,23 +157,23 @@ me.say_hi()
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ishika-pathak2317&custom_title=Contribution%20Graph&bg_color=0d1117&color=c084fc&line=9333ea&point=ffffff&area_color=7e22ce&title_color=c084fc&area=true&hide_border=true&radius=12" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ishika-pathak2317&custom_title=Contribution%20Graph&bg_color=0F1117&color=FFFF00&line=0FBE3E&point=ffffff&area_color=7e22ce&title_color=FFFF00&area=true&hide_border=true&radius=12" width="100%"/>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ishika-pathak2317&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=c084fc&icon_color=c084fc&text_color=e2e8f0&ring_color=9333ea&include_all_commits=true&count_private=true" height="175"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Ishika-pathak2317&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=c084fc&icon_color=0FBE3E&text_color=e2e8f0&ring_color=9333ea&include_all_commits=true&count_private=true" height="175"/>
 &nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Ishika-pathak2317&theme=midnight-purple&hide_border=true&background=0d1117&stroke=9333ea&ring=c084fc&fire=f97316&currStreakNum=ffffff&sideNums=c084fc&currStreakLabel=c084fc&sideLabels=e2e8f0&dates=94a3b8" height="175"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Ishika-pathak2317&theme=midnight-purple&hide_border=true&background=0d1117&stroke=9333ea&ring=0FBE3E&fire=f97316&currStreakNum=ffffff&sideNums=c084fc&currStreakLabel=c084fc&sideLabels=e2e8f0&dates=94a3b8" height="175"/>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ishika-pathak2317&layout=donut&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=c084fc&text_color=e2e8f0&langs_count=8" height="220"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ishika-pathak2317&layout=donut&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=FFFF00&text_color=e2e8f0&langs_count=8" height="220"/>
 
 </div>
 
 ---
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122049-276bc7a5-c760-4849-805a-995d8fa6b4d0.png" width="32"/>   Featured Projects
+## <img src="https://github.com/ishika-pathak2317/cohort-2/2.gif?raw=true" width="32"/>   Featured Projects
 
 > 🔧 Actively pushing projects from **May 2026** — repos coming very soon!
 
@@ -186,7 +186,7 @@ me.say_hi()
 
 Interactive business dashboard with real-world datasets, dynamic KPIs, filters and visual storytelling for decision-makers.
 
-[![Repo](https://img.shields.io/badge/Coming_Soon-9333ea?style=for-the-badge&logo=github&logoColor=white)](#)
+[![Repo](https://img.shields.io/badge/Coming_Soon-0FBE3E?style=for-the-badge&logo=github&logoColor=white)](#)
 
 </td>
 <td width="50%" valign="top">
@@ -196,7 +196,7 @@ Interactive business dashboard with real-world datasets, dynamic KPIs, filters a
 
 End-to-end machine learning pipeline — data cleaning, feature engineering, model training and evaluation.
 
-[![Repo](https://img.shields.io/badge/Coming_Soon-9333ea?style=for-the-badge&logo=github&logoColor=white)](#)
+[![Repo](https://img.shields.io/badge/Coming_Soon-0FBE3E?style=for-the-badge&logo=github&logoColor=white)](#)
 
 </td>
 </tr>
@@ -208,7 +208,7 @@ End-to-end machine learning pipeline — data cleaning, feature engineering, mod
 
 Full stack app with authentication, REST API, database integration and responsive UI built from scratch.
 
-[![Repo](https://img.shields.io/badge/Coming_Soon-9333ea?style=for-the-badge&logo=github&logoColor=white)](#)
+[![Repo](https://img.shields.io/badge/Coming_Soon-0FBE3E?style=for-the-badge&logo=github&logoColor=white)](#)
 
 </td>
 <td width="50%" valign="top">
@@ -218,7 +218,7 @@ Full stack app with authentication, REST API, database integration and responsiv
 
 Executive-level BI report with DAX measures, slicers, drill-through pages and automated data refresh.
 
-[![Repo](https://img.shields.io/badge/Coming_Soon-9333ea?style=for-the-badge&logo=github&logoColor=white)](#)
+[![Repo](https://img.shields.io/badge/Coming_Soon-0FBE3E?style=for-the-badge&logo=github&logoColor=white)](#)
 
 </td>
 </tr>
@@ -232,7 +232,7 @@ Executive-level BI report with DAX measures, slicers, drill-through pages and au
 
 ---
 
-## <img src="https://user-images.githubusercontent.com/74038190/216121964-513bdf95-3c8c-429a-82bc-7c770caca8fc.png" width="32"/>   Achievements
+## <img src="https://github.com/ishika-pathak2317/cohort-2/1.gif?raw=true" width="32"/>   Achievements
 
 <div align="center">
 
@@ -240,16 +240,16 @@ Executive-level BI report with DAX measures, slicers, drill-through pages and au
 
 <br/>
 
-![badge](https://img.shields.io/badge/🎓_B.Tech-AI_%26_ML-9333ea?style=for-the-badge)
-![badge](https://img.shields.io/badge/📊_BI-Tableau_%26_Power_BI-7e22ce?style=for-the-badge)
-![badge](https://img.shields.io/badge/🏭_Industrial-DCS_%26_PLC-6b21a8?style=for-the-badge)
-![badge](https://img.shields.io/badge/💻_Full_Stack-React_%26_Node-4a044e?style=for-the-badge)
+![badge](https://img.shields.io/badge/🎓_B.Tech-AI_%26_ML-0fbe3e?style=for-the-badge)
+![badge](https://img.shields.io/badge/📊_BI-Tableau_%26_Power_BI-0fbe3e?style=for-the-badge)
+![badge](https://img.shields.io/badge/🏭_Industrial-DCS_%26_PLC-0fbe3e?style=for-the-badge)
+![badge](https://img.shields.io/badge/💻_Full_Stack-React_%26_Node-0fbe3e?style=for-the-badge)
 
 </div>
 
 ---
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122000-6b7ced2d-8da4-40e7-b5f1-6197b5a75bbd.png" width="32"/>   My Journey
+## <img src="https://github.com/ishika-pathak2317/cohort-2/4.gif?raw=true" width="32"/>   My Journey
 
 <div align="center">
 
@@ -283,7 +283,7 @@ Executive-level BI report with DAX measures, slicers, drill-through pages and au
 
 ---
 
-## <img src="https://user-images.githubusercontent.com/74038190/216124356-f0d71f81-2ea7-4d52-8b50-21b990f49c3c.png" width="32"/> &nbsp; Words I Live By
+## <img src="https://github.com/ishika-pathak2317/cohort-2/3.jfif?raw=true" width="32"/> &nbsp; Words I Live By
 
 <div align="center">
 
@@ -296,7 +296,7 @@ Executive-level BI report with DAX measures, slicers, drill-through pages and au
 
 ---
 
-## <img src="https://user-images.githubusercontent.com/74038190/216120985-dc1b9a01-6dec-4bc6-85a0-9edd31f6ab23.png" width="32"/> &nbsp; Let's Connect
+## <img src="https://github.com/ishika-pathak2317/cohort-2/5.gif?raw=true" width="32"/> &nbsp; Let's Connect
 
 <div align="center">
 
@@ -314,7 +314,7 @@ Executive-level BI report with DAX measures, slicers, drill-through pages and au
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=6,11,20&section=footer&text=Thanks%20for%20stopping%20by!%20%F0%9F%92%9C&fontSize=18&fontColor=ffffff&animation=fadeIn&fontAlignY=70" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=6,11,20&section=footer&text=Thanks%20for%20stopping%20by!%20%F0%9F%92%9C&fontSize=18&fontColor=0FBE3E&animation=fadeIn&fontAlignY=70" width="100%"/>
 
 </div>
 
