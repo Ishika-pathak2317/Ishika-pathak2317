@@ -66,21 +66,21 @@ me.say_hi()
 ```
 
 </td>
-<td width="42%" valign="top" align="center">
+<td width="42%" valign="top" align="left">
 
 <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="300" alt="Data Science GIF"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/📍_Location-Sikkim,_India-9333ea?style=flat-square"/>
+<img src="https://img.shields.io/badge/📍_Location-Sikkim,_India-0fbe3e?style=flat-square"/>
 <br/>
-<img src="https://img.shields.io/badge/🎓_Degree-B.Tech_AI_%26_ML_(2nd_Year)-7e22ce?style=flat-square"/>
+<img src="https://img.shields.io/badge/🎓_Degree-B.Tech_AI_%26_ML_(2nd_Year)-0fbe3e?style=flat-square"/>
 <br/>
-<img src="https://img.shields.io/badge/💼_Status-Open_to_Collaborate-22c55e?style=flat-square"/>
+<img src="https://img.shields.io/badge/💼_Status-Open_to_Collaborate-0fbe3e?style=flat-square"/>
 <br/>
-<img src="https://img.shields.io/badge/🚀_Started_Coding-2021-c084fc?style=flat-square"/>
+<img src="https://img.shields.io/badge/🚀_Started_Coding-2021-0fbe3e?style=flat-square"/>
 <br/>
-<img src="https://img.shields.io/badge/🥤_Fuel-Monster_%26_Datasets-a855f7?style=flat-square"/>
+<img src="https://img.shields.io/badge/🥤_Fuel-Monster_%26_Datasets-0fbe3e?style=flat-square"/>
 
 </td>
 </tr>
@@ -103,7 +103,7 @@ me.say_hi()
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="36"/> &nbsp; Tech Universe
 
-<div align="center">
+<div align="left">
 
 ### 🧠 &nbsp; Data Science & Machine Learning
 
