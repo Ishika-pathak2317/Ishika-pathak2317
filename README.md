@@ -186,7 +186,7 @@ me.say_hi()
 
 Interactive business dashboard with real-world datasets, dynamic KPIs, filters and visual storytelling for decision-makers.
 
-[![Repo](https://img.shields.io/badge/Part_of_dashboard-0FBE3E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ishika-pathak2317/dashboard/readme.md)
+[![Repo](https://img.shields.io/badge/Part_of_dashboard-0FBE3E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ishika-pathak2317/dashboard)
 
 </td>
 <td width="50%" valign="top">
