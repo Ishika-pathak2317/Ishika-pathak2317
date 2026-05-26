@@ -22,7 +22,7 @@
 
 ---
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="32"/> &nbsp; Who Am I?
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="36"/> &nbsp; Who Am I?
 
 <table>
 <tr>
@@ -88,7 +88,7 @@ me.say_hi()
 
 ---
 
-## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="32"/> &nbsp; Quick Highlights
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="36"/> &nbsp; Quick Highlights
 
 <div align="center">
 
@@ -101,7 +101,7 @@ me.say_hi()
 
 ---
 
-## <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="36"/> &nbsp; Tech Universe
+## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="36"/> &nbsp; Tech Universe
 
 <div align="left">
 
@@ -153,7 +153,7 @@ me.say_hi()
 
 ---
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="32"/> &nbsp; GitHub Stats
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="36"/> &nbsp; GitHub Stats
 
 <div align="center">
 
@@ -173,7 +173,7 @@ me.say_hi()
 
 ---
 
-## <img src="https://github.com/ishika-pathak2317/ishika-pathak2317/blob/main/2.gif?raw=true" width="32"/>   Featured Projects
+## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="36"/>   Featured Projects
 
 > 🔧 Actively pushing projects from **May 2026** — repos coming very soon!
 
@@ -232,7 +232,7 @@ Executive-level BI report with DAX measures, slicers, drill-through pages and au
 
 ---
 
-## <img src="https://github.com/ishika-pathak2317/ishika-pathak2317/blob/main/1.gif?raw=true" width="32"/>   Achievements
+## <img src="https://raw.githubusercontent.com/ishika-pathak2317/ishika-pathak2317/main/assets/trophy.gif" width="36"/>   Achievements
 
 <div align="center">
 
@@ -249,7 +249,7 @@ Executive-level BI report with DAX measures, slicers, drill-through pages and au
 
 ---
 
-## <img src="https://github.com/ishika-pathak2317/ishika-pathak2317/blob/main/4.gif?raw=true" width="32"/>   My Journey
+## <img src="https://media.giphy.com/media/LOnt6uqjD9OexmQJRB/giphy.gif" width="36"/>   My Journey
 
 <div align="center">
 
@@ -283,7 +283,7 @@ Executive-level BI report with DAX measures, slicers, drill-through pages and au
 
 ---
 
-## <img src="https://github.com/ishika-pathak2317/ishika-pathak2317/blob/main/3.jfif?raw=true" width="32"/> &nbsp; Words I Live By
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="36"/> &nbsp; Words I Live By
 
 <div align="center">
 
@@ -296,7 +296,7 @@ Executive-level BI report with DAX measures, slicers, drill-through pages and au
 
 ---
 
-## <img src="https://github.com/ishika-pathak2317/ishika-pathak2317/blob/main/5.gif?raw=true" width="32"/> &nbsp; Let's Connect
+## <img src="https://raw.githubusercontent.com/ishika-pathak2317/ishika-pathak2317/main/assets/handshake.gif" width="36"/> &nbsp; Let's Connect
 
 <div align="center">
 
