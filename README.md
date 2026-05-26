@@ -232,7 +232,7 @@ Executive-level BI report with DAX measures, slicers, drill-through pages and au
 
 ---
 
-## <img src="https://raw.githubusercontent.com/ishika-pathak2317/ishika-pathak2317/main/assets/trophy.gif" width="36"/>   Achievements
+## <img src="https://media.giphy.com/media/qTeCS8pvoELD6mMsme/giphy.gif" width="36"/>  Achievements
 
 <div align="center">
 
@@ -296,7 +296,7 @@ Executive-level BI report with DAX measures, slicers, drill-through pages and au
 
 ---
 
-## <img src="https://raw.githubusercontent.com/ishika-pathak2317/ishika-pathak2317/main/assets/handshake.gif" width="36"/> &nbsp; Let's Connect
+## <img src="https://media.giphy.com/media/uZ7GOHTYg3w6hAPN9v/giphy.gif" width="36"/> &nbsp; Let's Connect
 
 <div align="center">
 
