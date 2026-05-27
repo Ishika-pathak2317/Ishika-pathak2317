@@ -236,7 +236,7 @@ Executive-level BI report with DAX measures, slicers, drill-through pages and au
 
 <div align="center">
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=Ishika-pathak2317&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=12)](https://github.com/Ishika-pathak2317)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Ishika-pathak2317&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <br/>
 
