@@ -161,13 +161,13 @@ me.say_hi()
 
 <br/>
 
-<img src="https://github-readme-stats-fast.vercel.app/api?username=ishika-pathak2317&show_icons=true&theme=charteuse-dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+<img src="https://github-readme-stats-fast.vercel.app/api?username=ishika-pathak2317&show_icons=true&theme=merko&bg_color=0D1117&title_color=22c55e&text_color=c9d1d9&icon_color=22c55e&border_color=30363d&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
 
 <img src="https://streak-stats.demolab.com?user=Ishika-pathak2317&theme=midnight-purple&hide_border=true&background=0D1117&stroke=0fbe3e&ring=0fbe3e&fire=f97316&currStreakNum=0fbe3e&sideNums=0fbe3e&currStreakLabel=0fbe3e&sideLabels=e2e8f0&dates=94a3b8" height="175"/>
 
 <br/>
 
-<img width="42%" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=ishika-pathak2317&layout=donut&theme=charteuse-dark&hide_border=true&langs_count=8" alt="Top Languages"/>
+<img width="42%" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=ishika-pathak2317&layout=donut&theme=merko&bg_color=0D1117&title_color=22c55e&text_color=c9d1d9&icon_color=22c55e&border_color=30363d&hide_border=true&langs_count=8" alt="Top Languages"/>
 
 </div>
 
