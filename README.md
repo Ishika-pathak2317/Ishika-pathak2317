@@ -161,8 +161,8 @@ me.say_hi()
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ishika-pathak2317&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=0fbe3e&icon_color=c084fc&text_color=e2e8f0&ring_color=9333ea&include_all_commits=true&count_private=true&cache_seconds=1800" height="175"/>
-&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ishika-pathak2317&theme=chartreuse" height="175"/>
+
 <img src="https://streak-stats.demolab.com?user=Ishika-pathak2317&theme=midnight-purple&hide_border=true&background=0D1117&stroke=0fbe3e&ring=0fbe3e&fire=f97316&currStreakNum=0fbe3e&sideNums=0fbe3e&currStreakLabel=0fbe3e&sideLabels=e2e8f0&dates=94a3b8" height="175"/>
 
 <br/>
